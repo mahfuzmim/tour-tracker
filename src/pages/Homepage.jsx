@@ -12,10 +12,11 @@ const Homepage = () => {
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundSize: "cover",
+          margin: "1.9rem",
         }}
         className="h-screen px-20 py-8 
         backdrop-brightness-50 z-20 block 
-        overflow-hidden bg-gradient-to-r from-blue-500 h-screen -mt-10 "
+        overflow-hidden bg-gradient-to-r from-blue-500 h-screen -mt-10"
       >
         <PageNav />
         <div

@@ -7,7 +7,7 @@ const Pricing = () => {
       <section
         className="bg-[#2d3439] h-screen px-20 py-8 
         backdrop-brightness-50 z-20 block 
-        overflow-hidden  h-screen -mt-10 "
+        overflow-hidden  h-screen m-8"
       >
         <PageNav />
         <div className="flex mt-28 space-x-7">

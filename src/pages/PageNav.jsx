@@ -34,7 +34,7 @@ function PageNav() {
           <li>
             <NavLink
               to="/login"
-              className="bg-[#00c46a] py-3.5 px-8 rounded-md	text-black"
+              className="bg-[#00c46a] py-3.5 px-6 rounded-md	text-black"
             >
               LOGIN
             </NavLink>
